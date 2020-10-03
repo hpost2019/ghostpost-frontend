@@ -1,3 +1,17 @@
+# My backend repo is here:
+https://github.com/hpost2019/ghostpost-backend
+
+## Frontend requirements:
+1- Browser-router
+2- React Bootstrap
+3- Axios
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
